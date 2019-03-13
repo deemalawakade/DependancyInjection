@@ -1,0 +1,16 @@
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\AccessingFromDB.dll.config
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\AccessingFromDB.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\AccessingFromDB.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\CustomDatabase.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\EntityFramework.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\IInterfaceDatabaseRepo.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\CustomDatabase.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\EntityFramework.xml
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\bin\Debug\IInterfaceDatabaseRepo.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\obj\Debug\AccessingFromDB.csprojAssemblyReference.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\obj\Debug\AccessingFromDB.csproj.CoreCompileInputs.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\obj\Debug\AccessingFromDB.csproj.CopyComplete
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\obj\Debug\AccessingFromDB.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\AccessingFromDB\obj\Debug\AccessingFromDB.pdb

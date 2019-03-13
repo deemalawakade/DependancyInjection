@@ -1,0 +1,6 @@
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\bin\Debug\CustomDatabase.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\bin\Debug\CustomDatabase.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\obj\Debug\CustomDatabase.csprojAssemblyReference.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\obj\Debug\CustomDatabase.csproj.CoreCompileInputs.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\obj\Debug\CustomDatabase.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\CustomDatabase\obj\Debug\CustomDatabase.pdb

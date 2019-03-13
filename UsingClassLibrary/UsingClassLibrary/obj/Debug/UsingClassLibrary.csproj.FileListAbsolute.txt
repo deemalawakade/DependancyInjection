@@ -1,0 +1,6 @@
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\bin\Debug\UsingClassLibrary.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\bin\Debug\UsingClassLibrary.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.csprojAssemblyReference.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.csproj.CoreCompileInputs.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\UsingClassLibrary\obj\Debug\UsingClassLibrary.pdb

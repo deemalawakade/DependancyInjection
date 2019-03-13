@@ -1,0 +1,9 @@
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\obj\Debug\IInterfaceDatabaseRepo.csproj.CoreCompileInputs.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\bin\Debug\IInterfaceDatabaseRepo.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\bin\Debug\IInterfaceDatabaseRepo.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\bin\Debug\CustomDatabase.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\bin\Debug\CustomDatabase.pdb
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\obj\Debug\IInterfaceDatabaseRepo.csprojAssemblyReference.cache
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\obj\Debug\IInterfaceDatabaseRepo.csproj.CopyComplete
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\obj\Debug\IInterfaceDatabaseRepo.dll
+D:\Deepmala Wakade\12MarchSessionByShriNiwas\UsingClassLibrary\IInterfaceDatabaseRepo\obj\Debug\IInterfaceDatabaseRepo.pdb
